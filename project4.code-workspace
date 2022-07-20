@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Documents\\gallery"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project4",
+		"liveServer.settings.port": 5502
+	}
+}
